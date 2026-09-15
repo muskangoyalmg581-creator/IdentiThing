@@ -3628,3 +3628,1069 @@ timestamp,pid,process_name,cpu_percent,memory_percent,risk_score,severity,messag
 2026-09-15 11:31:52,17363,Google Chrome Helper (Renderer),0.0,1.1728286743164062,80,HIGH,Suspicious process behavior detected.
 2026-09-15 11:31:52,17375,Google Chrome Helper (Renderer),2.5,3.997039794921875,80,HIGH,Suspicious process behavior detected.
 2026-09-15 11:31:52,17376,Google Chrome Helper,0.0,0.4985809326171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:58,553,WindowManager,0.1,0.27313232421875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:58,559,Dock,0.2,0.217437744140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:58,560,ControlCenter,0.4,0.37403106689453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:58,564,Finder,0.3,0.3387451171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:58,568,AXVisualSupportAgent,1.0,0.16345977783203125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:58,602,fileproviderd,0.1,0.135040283203125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:58,668,BiomeAgent,0.4,0.1384735107421875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,718,corespotlightd,0.0,0.5640029907226562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,722,duetexpertd,2.1,0.2338409423828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,730,Spotify,0.3,0.7295608520507812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,748,Spotify Helper,0.2,0.2552032470703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,755,Grammarly Desktop,0.4,0.6763458251953125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,913,app_inkwell,1.3,0.28209686279296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,916,com.apple.WebKit.WebContent,0.1,0.7404327392578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,918,com.apple.WebKit.GPU,0.1,0.14896392822265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,931,com.apple.WebKit.WebContent,0.1,1.725006103515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,932,com.apple.WebKit.WebContent,0.1,0.37174224853515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,957,Google Chrome,0.6,2.6285171508789062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,963,Google Chrome Helper,6.1,1.0236740112304688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,964,Google Chrome Helper,0.1,0.8111953735351562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,2672,Google Chrome Helper (Renderer),0.3,1.2514114379882812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,2826,Code,3.3,1.4295578002929688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,2833,Code Helper,6.3,0.942230224609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,2834,Code Helper,0.2,0.323486328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,2835,Code Helper (Renderer),8.5,4.261970520019531,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,2852,Code Helper,0.1,1.0126113891601562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,2913,Code Helper,0.7,0.5100250244140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,3033,Code Helper,0.3,0.34313201904296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,3034,Code Helper (Plugin),0.5,1.4087677001953125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,3045,Code Helper (Plugin),0.1,0.21839141845703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,4194,Code Helper (Plugin),0.2,0.5842208862304688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,8323,Google Chrome Helper (Renderer),0.0,0.49381256103515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,8666,Google Chrome Helper (Renderer),0.1,0.1316070556640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,9069,searchpartyuseragent,0.1,0.1743316650390625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,13037,CoreLocationAgent,0.1,0.128936767578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,13781,Google Chrome Helper (Renderer),0.2,1.1838912963867188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,13795,com.apple.appkit.xpc.openAndSavePanelService,0.3,0.29201507568359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,14241,SoftwareUpdateNotificationManager,0.1,0.16651153564453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,14245,nsattributedstringagent,0.1,0.2269744873046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,15256,Code Helper (Renderer),0.1,0.7143020629882812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,15313,screencaptureui,0.6,0.20198822021484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,16276,python3.12,1.5,0.0823974609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,16445,python3.12,0.6,0.05817413330078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,16597,python3.12,42.7,0.5035400390625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,17345,Google Chrome Helper (Renderer),0.0,1.2331008911132812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,17346,Google Chrome Helper (Renderer),0.0,1.15509033203125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,17354,Google Chrome Helper (Renderer),0.1,1.214599609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,17363,Google Chrome Helper (Renderer),0.0,1.1610031127929688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,17375,Google Chrome Helper (Renderer),3.3,3.989410400390625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:31:59,17376,Google Chrome Helper,0.0,0.4894256591796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:05,560,ControlCenter,0.4,0.3749847412109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:05,564,Finder,0.2,0.34046173095703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:05,568,AXVisualSupportAgent,3.2,0.16803741455078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:05,602,fileproviderd,0.2,0.13446807861328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:05,668,BiomeAgent,0.3,0.13790130615234375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:05,683,imagent,0.1,0.13561248779296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:05,718,corespotlightd,0.0,0.560760498046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:05,722,duetexpertd,1.8,0.2841949462890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:05,730,Spotify,0.4,0.8623123168945312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:05,748,Spotify Helper,0.2,0.27484893798828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:05,755,Grammarly Desktop,2.2,0.7333755493164062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:05,913,app_inkwell,8.6,0.28591156005859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:05,916,com.apple.WebKit.WebContent,6.2,0.7650375366210938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:05,918,com.apple.WebKit.GPU,3.0,0.1537322998046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:05,919,com.apple.WebKit.Networking,7.6,0.2079010009765625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:05,930,com.apple.WebKit.WebContent,1.7,0.16918182373046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:05,931,com.apple.WebKit.WebContent,7.4,0.6771087646484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:05,932,com.apple.WebKit.WebContent,0.4,0.3814697265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:05,957,Google Chrome,14.0,2.6157379150390625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,963,Google Chrome Helper,14.0,1.0675430297851562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,964,Google Chrome Helper,0.3,0.769805908203125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,2095,com.apple.WebKit.WebContent,0.1,0.12950897216796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,2096,com.apple.WebKit.WebContent,0.4,0.304412841796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,2672,Google Chrome Helper (Renderer),0.2,1.2359619140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,2826,Code,0.1,1.7072677612304688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,2833,Code Helper,0.2,0.8417129516601562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,2835,Code Helper (Renderer),0.3,3.9121627807617188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,2852,Code Helper,0.0,1.235198974609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,2913,Code Helper,0.7,0.5472183227539062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,3033,Code Helper,0.1,0.3421783447265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,3034,Code Helper (Plugin),0.2,1.3719558715820312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,4194,Code Helper (Plugin),0.0,0.6938934326171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,8328,Google Chrome Helper (Renderer),0.1,0.29277801513671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,8410,routined,0.6,0.1209259033203125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,13774,Google Chrome Helper (Renderer),0.1,0.446319580078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,13781,Google Chrome Helper (Renderer),0.1,1.1539459228515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,13795,com.apple.appkit.xpc.openAndSavePanelService,0.1,0.2902984619140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,15256,Code Helper (Renderer),0.0,0.7671356201171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,15313,screencaptureui,1.8,0.20160675048828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,16276,python3.12,0.4,0.12683868408203125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,16597,python3.12,42.8,0.5182266235351562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,17345,Google Chrome Helper (Renderer),0.0,1.232147216796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,17346,Google Chrome Helper (Renderer),0.0,1.1789321899414062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,17354,Google Chrome Helper (Renderer),0.0,1.2149810791015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,17363,Google Chrome Helper (Renderer),0.0,1.1701583862304688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,17372,mdworker_shared,0.4,0.21152496337890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,17375,Google Chrome Helper (Renderer),18.6,3.2766342163085938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:06,17376,Google Chrome Helper,0.0,0.48961639404296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,543,distnoted,0.1,0.0469207763671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,560,ControlCenter,0.3,0.3711700439453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,568,AXVisualSupportAgent,2.0,0.1667022705078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,602,fileproviderd,0.2,0.1346588134765625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,616,assistantd,0.1,0.13217926025390625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,718,corespotlightd,0.0,0.5580902099609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,730,Spotify,0.2,0.8319854736328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,748,Spotify Helper,0.2,0.25844573974609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,755,Grammarly Desktop,2.2,0.7089614868164062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,913,app_inkwell,0.6,0.28476715087890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,916,com.apple.WebKit.WebContent,3.3,0.823211669921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,919,com.apple.WebKit.Networking,2.7,0.21190643310546875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,931,com.apple.WebKit.WebContent,0.2,0.7434844970703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,932,com.apple.WebKit.WebContent,0.1,0.39234161376953125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,957,Google Chrome,9.0,2.6708602905273438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,963,Google Chrome Helper,17.8,1.1484146118164062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,964,Google Chrome Helper,1.3,0.788116455078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,2095,com.apple.WebKit.WebContent,0.1,0.13561248779296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,2096,com.apple.WebKit.WebContent,0.1,0.31261444091796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,2672,Google Chrome Helper (Renderer),0.3,1.3935089111328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,2826,Code,1.3,1.4423370361328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,2833,Code Helper,1.2,0.6977081298828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,2834,Code Helper,0.1,0.3387451171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,2835,Code Helper (Renderer),1.1,4.116058349609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,2852,Code Helper,4.9,1.12762451171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,2913,Code Helper,0.6,0.543212890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,3033,Code Helper,0.1,0.3490447998046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,3034,Code Helper (Plugin),0.3,3.32489013671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:12,4194,Code Helper (Plugin),0.1,0.5834579467773438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:13,13774,Google Chrome Helper (Renderer),0.2,0.4665374755859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:13,13781,Google Chrome Helper (Renderer),0.3,1.17034912109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:13,13795,com.apple.appkit.xpc.openAndSavePanelService,0.1,0.29506683349609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:13,15256,Code Helper (Renderer),0.2,0.76141357421875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:13,15313,screencaptureui,1.1,0.20389556884765625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:13,16597,python3.12,43.0,0.20294189453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:13,16631,ServiceExtension,0.1,0.26950836181640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:13,17345,Google Chrome Helper (Renderer),0.1,1.26190185546875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:13,17346,Google Chrome Helper (Renderer),0.0,1.1837005615234375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:13,17354,Google Chrome Helper (Renderer),0.0,1.2460708618164062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:13,17363,Google Chrome Helper (Renderer),0.0,1.1798858642578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:13,17375,Google Chrome Helper (Renderer),13.0,3.249359130859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:13,17376,Google Chrome Helper,0.0,0.48999786376953125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,560,ControlCenter,0.5,0.37250518798828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,568,AXVisualSupportAgent,2.7,0.164031982421875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,602,fileproviderd,0.2,0.1346588134765625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,718,corespotlightd,0.0,0.555419921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,730,Spotify,0.2,0.84228515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,755,Grammarly Desktop,2.0,0.7318496704101562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,913,app_inkwell,5.1,0.28438568115234375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,916,com.apple.WebKit.WebContent,8.4,0.7661819458007812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,918,com.apple.WebKit.GPU,0.9,0.14591217041015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,919,com.apple.WebKit.Networking,9.2,0.199127197265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,930,com.apple.WebKit.WebContent,0.5,0.18711090087890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,931,com.apple.WebKit.WebContent,2.7,0.6717681884765625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,932,com.apple.WebKit.WebContent,0.4,0.38089752197265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,957,Google Chrome,14.0,2.691650390625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,963,Google Chrome Helper,15.3,1.067352294921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,964,Google Chrome Helper,0.3,0.7930755615234375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,2096,com.apple.WebKit.WebContent,0.3,0.3131866455078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,2672,Google Chrome Helper (Renderer),0.2,1.396942138671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,2826,Code,2.1,1.7267227172851562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,2833,Code Helper,1.2,0.8625030517578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,2834,Code Helper,0.1,0.341033935546875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,2835,Code Helper (Renderer),28.6,4.107856750488281,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,2852,Code Helper,0.0,1.177978515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,2878,Code Helper,0.1,0.25691986083984375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,2913,Code Helper,0.5,0.5422592163085938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,3033,Code Helper,0.1,0.3490447998046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,3034,Code Helper (Plugin),0.4,3.32489013671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,4194,Code Helper (Plugin),0.0,0.61492919921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:19,8666,Google Chrome Helper (Renderer),0.1,0.15411376953125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:20,13781,Google Chrome Helper (Renderer),0.3,1.177215576171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:20,13795,com.apple.appkit.xpc.openAndSavePanelService,0.1,0.29163360595703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:20,15256,Code Helper (Renderer),0.1,0.7684707641601562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:20,15313,screencaptureui,2.0,0.2044677734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:20,16276,python3.12,0.3,0.139617919921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:20,16445,python3.12,0.6,0.06008148193359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:20,16597,python3.12,43.5,0.5170822143554688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:20,17345,Google Chrome Helper (Renderer),0.0,1.285552978515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:20,17346,Google Chrome Helper (Renderer),0.0,1.1837005615234375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:20,17354,Google Chrome Helper (Renderer),0.0,1.2546539306640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:20,17363,Google Chrome Helper (Renderer),0.0,1.180267333984375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:20,17371,mdworker_shared,0.1,0.1953125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:20,17375,Google Chrome Helper (Renderer),12.3,3.2978057861328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:20,17376,Google Chrome Helper,0.0,0.4894256591796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,544,cfprefsd,0.3,0.0484466552734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,560,ControlCenter,0.3,0.37288665771484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,568,AXVisualSupportAgent,0.9,0.1617431640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,602,fileproviderd,0.1,0.13561248779296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,683,imagent,0.1,0.16117095947265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,718,corespotlightd,0.0,0.5510330200195312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,730,Spotify,0.3,0.646209716796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,755,Grammarly Desktop,1.0,0.7059097290039062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,913,app_inkwell,0.8,0.2765655517578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,916,com.apple.WebKit.WebContent,6.7,0.8153915405273438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,919,com.apple.WebKit.Networking,6.5,0.20503997802734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,930,com.apple.WebKit.WebContent,0.1,0.29354095458984375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,931,com.apple.WebKit.WebContent,0.3,0.6198883056640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,932,com.apple.WebKit.WebContent,0.4,0.391387939453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,957,Google Chrome,3.8,2.8394699096679688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,963,Google Chrome Helper,8.3,1.0074615478515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,964,Google Chrome Helper,0.2,0.8146286010742188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,2095,com.apple.WebKit.WebContent,0.2,0.46901702880859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,2096,com.apple.WebKit.WebContent,0.4,0.318145751953125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,2641,Google Chrome Helper (Renderer),0.0,0.4856109619140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,2672,Google Chrome Helper (Renderer),0.2,1.2821197509765625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,2826,Code,3.2,1.6849517822265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,2833,Code Helper,4.3,0.65765380859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,2835,Code Helper (Renderer),1.6,3.936004638671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,2852,Code Helper,0.0,0.7329940795898438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,2913,Code Helper,0.3,0.54931640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,3033,Code Helper,0.1,0.3490447998046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,3034,Code Helper (Plugin),0.2,3.2926559448242188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,4194,Code Helper (Plugin),0.0,0.6195068359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,9069,searchpartyuseragent,0.1,0.16193389892578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,13774,Google Chrome Helper (Renderer),0.0,0.5273818969726562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,13781,Google Chrome Helper (Renderer),0.2,1.1859893798828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,13795,com.apple.appkit.xpc.openAndSavePanelService,0.1,0.2857208251953125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,15256,Code Helper (Renderer),0.3,0.76904296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:26,16276,python3.12,0.4,0.13427734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:27,16597,python3.12,42.7,0.5235671997070312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:27,17345,Google Chrome Helper (Renderer),0.1,1.2666702270507812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:27,17346,Google Chrome Helper (Renderer),1.2,1.1600494384765625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:27,17354,Google Chrome Helper (Renderer),0.0,1.2546539306640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:27,17363,Google Chrome Helper (Renderer),0.0,1.3729095458984375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:27,17371,mdworker_shared,0.2,0.27103424072265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:27,17372,mdworker_shared,0.2,0.281524658203125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:27,17375,Google Chrome Helper (Renderer),8.2,3.0385971069335938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:27,17376,Google Chrome Helper,0.0,0.49037933349609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:27,17839,Google Chrome Helper (Renderer),0.0,1.5001296997070312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:27,17846,Google Chrome Helper (Renderer),0.0,1.6605377197265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:27,17849,mdworker_shared,2.8,0.03986358642578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,553,WindowManager,0.9,0.284576416015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,559,Dock,0.1,0.19702911376953125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,560,ControlCenter,0.3,0.3612518310546875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,564,Finder,1.4,0.30670166015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,568,AXVisualSupportAgent,1.8,0.1522064208984375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,600,fontd,0.2,0.10833740234375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,602,fileproviderd,0.2,0.13370513916015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,668,BiomeAgent,0.4,0.1041412353515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,683,imagent,0.2,0.11138916015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,718,corespotlightd,0.3,0.5895614624023438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,722,duetexpertd,2.5,0.2285003662109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,730,Spotify,3.6,0.6832122802734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,748,Spotify Helper,0.1,0.27103424072265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,755,Grammarly Desktop,2.1,0.69732666015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,768,Spotify Helper (Renderer),0.0,0.5437850952148438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,913,app_inkwell,4.6,0.27179718017578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,916,com.apple.WebKit.WebContent,20.2,2.191162109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,919,com.apple.WebKit.Networking,21.0,0.1537322998046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,930,com.apple.WebKit.WebContent,0.2,0.12683868408203125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,931,com.apple.WebKit.WebContent,0.7,0.36678314208984375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,932,com.apple.WebKit.WebContent,1.0,0.3810882568359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,957,Google Chrome,21.5,3.3136367797851562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,963,Google Chrome Helper,9.6,1.081085205078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,964,Google Chrome Helper,20.4,0.8592605590820312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,966,Google Chrome Helper,0.1,0.22182464599609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,2095,com.apple.WebKit.WebContent,0.2,0.1361846923828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,2096,com.apple.WebKit.WebContent,0.7,0.5353927612304688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,2641,Google Chrome Helper (Renderer),0.3,1.2422561645507812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,2672,Google Chrome Helper (Renderer),0.5,1.268768310546875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,2826,Code,3.3,1.4682769775390625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,2833,Code Helper,1.7,0.8142471313476562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,2835,Code Helper (Renderer),1.2,3.0393600463867188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,2852,Code Helper,0.1,1.0402679443359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,2913,Code Helper,0.3,0.5084991455078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,3033,Code Helper,0.2,0.321197509765625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,3034,Code Helper (Plugin),0.6,1.1854171752929688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,4194,Code Helper (Plugin),0.0,0.6072998046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,8323,Google Chrome Helper (Renderer),0.1,0.4924774169921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,8324,Google Chrome Helper (Renderer),0.1,0.386810302734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,8325,Google Chrome Helper (Renderer),0.1,0.25730133056640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,8328,Google Chrome Helper (Renderer),0.1,0.32024383544921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,8410,routined,0.5,0.12054443359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,8666,Google Chrome Helper (Renderer),0.1,0.15392303466796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,13774,Google Chrome Helper (Renderer),0.3,0.40607452392578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,13781,Google Chrome Helper (Renderer),0.4,1.2157440185546875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:33,13795,com.apple.appkit.xpc.openAndSavePanelService,0.4,0.2887725830078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:34,15256,Code Helper (Renderer),0.2,0.7619857788085938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:34,15313,screencaptureui,2.3,0.20275115966796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:34,16597,python3.12,44.1,0.1995086669921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:34,17354,Google Chrome Helper (Renderer),0.1,1.1911392211914062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:34,17363,Google Chrome Helper (Renderer),0.0,1.4074325561523438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:34,17371,mdworker_shared,0.3,0.19397735595703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:34,17375,Google Chrome Helper (Renderer),0.1,2.0704269409179688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:34,17376,Google Chrome Helper,0.0,0.49533843994140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:34,17839,Google Chrome Helper (Renderer),0.0,1.1133193969726562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:34,17846,Google Chrome Helper (Renderer),1.0,3.09295654296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:34,17856,Google Chrome Helper,0.0,0.5395889282226562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:34,17857,Google Chrome Helper,0.0,0.5306243896484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:34,17862,mdworker_shared,0.8,0.17719268798828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:34,17863,mdworker_shared,0.2,0.24356842041015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:34,17864,Google Chrome Helper (Renderer),40.1,1.2948989868164062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:34,17865,Google Chrome Helper (Renderer),2.5,1.3139724731445312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,560,ControlCenter,0.5,0.3643035888671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,564,Finder,0.8,0.302886962890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,568,AXVisualSupportAgent,2.6,0.15869140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,602,fileproviderd,0.2,0.13446807861328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,714,CursorUIViewService,0.7,0.1735687255859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,718,corespotlightd,0.0,0.5811691284179688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,730,Spotify,0.2,0.8869171142578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,755,Grammarly Desktop,2.3,0.6534576416015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,913,app_inkwell,5.5,0.27370452880859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,916,com.apple.WebKit.WebContent,3.1,1.3250350952148438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,919,com.apple.WebKit.Networking,2.6,0.2117156982421875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,931,com.apple.WebKit.WebContent,0.1,0.4199981689453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,932,com.apple.WebKit.WebContent,0.1,0.40225982666015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,957,Google Chrome,18.4,3.325653076171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,963,Google Chrome Helper,2.4,1.0540008544921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,964,Google Chrome Helper,2.0,0.991058349609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,2096,com.apple.WebKit.WebContent,0.0,0.5472183227539062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,2641,Google Chrome Helper (Renderer),0.0,0.8508682250976562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,2672,Google Chrome Helper (Renderer),0.2,1.2868881225585938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,2826,Code,0.8,1.37939453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,2833,Code Helper,0.8,0.7890701293945312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,2834,Code Helper,0.4,0.3276824951171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,2835,Code Helper (Renderer),1.4,2.0978927612304688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,2852,Code Helper,0.0,0.8527755737304688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,2913,Code Helper,0.7,0.54473876953125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,3033,Code Helper,0.2,0.324249267578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,3034,Code Helper (Plugin),0.5,0.9599685668945312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,3045,Code Helper (Plugin),0.1,0.218963623046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,4194,Code Helper (Plugin),0.3,0.6822586059570312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,8323,Google Chrome Helper (Renderer),0.0,0.48503875732421875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,8410,routined,0.3,0.196075439453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,13781,Google Chrome Helper (Renderer),0.0,1.2317657470703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,13795,com.apple.appkit.xpc.openAndSavePanelService,0.3,0.27217864990234375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,15256,Code Helper (Renderer),0.3,0.7656097412109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,15313,screencaptureui,1.6,0.20236968994140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,16276,python3.12,0.4,0.133514404296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:40,16445,python3.12,1.9,0.10738372802734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:41,16597,python3.12,43.0,0.521087646484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:41,17354,Google Chrome Helper (Renderer),0.0,1.2300491333007812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:41,17363,Google Chrome Helper (Renderer),0.1,1.3118743896484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:41,17371,mdworker_shared,0.2,0.21152496337890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:41,17375,Google Chrome Helper (Renderer),0.1,1.9617080688476562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:41,17376,Google Chrome Helper,0.0,0.4886627197265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:41,17839,Google Chrome Helper (Renderer),0.0,1.1051177978515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:41,17846,Google Chrome Helper (Renderer),0.0,2.4374008178710938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:41,17856,Google Chrome Helper,0.0,0.5397796630859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:41,17862,mdworker_shared,0.1,0.20656585693359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:41,17863,mdworker_shared,0.1,0.193023681640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:41,17864,Google Chrome Helper (Renderer),11.5,3.8518905639648438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:41,17865,Google Chrome Helper (Renderer),0.0,1.1186599731445312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,543,distnoted,0.1,0.0457763671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,560,ControlCenter,0.4,0.3650665283203125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,568,AXVisualSupportAgent,3.0,0.1667022705078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,602,fileproviderd,0.2,0.13427734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,718,corespotlightd,0.0,0.5849838256835938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,730,Spotify,0.2,0.6029129028320312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,755,Grammarly Desktop,1.1,0.6612777709960938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,913,app_inkwell,4.0,0.2685546875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,916,com.apple.WebKit.WebContent,0.1,0.6315231323242188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,919,com.apple.WebKit.Networking,0.4,0.154876708984375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,932,com.apple.WebKit.WebContent,0.1,0.3238677978515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,957,Google Chrome,2.0,2.9085159301757812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,963,Google Chrome Helper,0.4,0.8932113647460938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,964,Google Chrome Helper,0.3,0.8409500122070312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,2641,Google Chrome Helper (Renderer),0.0,0.743865966796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,2672,Google Chrome Helper (Renderer),0.2,1.2098312377929688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,2826,Code,11.9,1.5350341796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,2833,Code Helper,1.6,0.8380889892578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,2835,Code Helper (Renderer),0.7,3.8791656494140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,2852,Code Helper,0.0,0.9815216064453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,2913,Code Helper,0.6,0.5243301391601562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,3033,Code Helper,0.1,0.29735565185546875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,3034,Code Helper (Plugin),0.2,1.1394500732421875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,3045,Code Helper (Plugin),0.1,0.1811981201171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,4194,Code Helper (Plugin),0.1,0.37746429443359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,9069,searchpartyuseragent,0.1,0.1434326171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,9909,com.apple.geod,0.1,0.06542205810546875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,13781,Google Chrome Helper (Renderer),59.0,0.9759902954101562,90,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,13795,com.apple.appkit.xpc.openAndSavePanelService,0.1,0.2803802490234375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,15256,Code Helper (Renderer),1.5,0.7503509521484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,15313,screencaptureui,1.2,0.2033233642578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,16276,python3.12,1.5,0.11615753173828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,16597,python3.12,42.1,1.0541915893554688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,17354,Google Chrome Helper (Renderer),0.0,1.192474365234375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,17363,Google Chrome Helper (Renderer),0.1,1.25732421875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,17375,Google Chrome Helper (Renderer),0.1,1.7164230346679688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,17376,Google Chrome Helper,0.0,0.49648284912109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,17839,Google Chrome Helper (Renderer),0.1,1.0738372802734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,17846,Google Chrome Helper (Renderer),0.3,1.5163421630859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,17856,Google Chrome Helper,0.0,0.521087646484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,17864,Google Chrome Helper (Renderer),0.0,2.845001220703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:47,17865,Google Chrome Helper (Renderer),0.0,1.0974884033203125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,560,ControlCenter,0.7,0.3757476806640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,561,pboard,0.1,0.07419586181640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,564,Finder,0.1,0.342559814453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,568,AXVisualSupportAgent,0.5,0.164794921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,587,com.apple.hiservices-xpcservice,0.1,0.0400543212890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,602,fileproviderd,0.2,0.13427734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,608,ViewBridgeAuxiliary,0.1,0.07762908935546875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,643,useractivityd,0.1,0.08258819580078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,683,imagent,0.1,0.1354217529296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,718,corespotlightd,0.0,0.53253173828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,730,Spotify,0.3,0.616455078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,747,Spotify Helper,0.1,0.1682281494140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,755,Grammarly Desktop,0.3,0.62255859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,913,app_inkwell,0.1,0.26264190673828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,916,com.apple.WebKit.WebContent,0.1,0.634002685546875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,930,com.apple.WebKit.WebContent,0.1,0.2292633056640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,932,com.apple.WebKit.WebContent,0.1,0.25501251220703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,957,Google Chrome,0.8,3.0994415283203125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,963,Google Chrome Helper,0.0,0.8489608764648438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,964,Google Chrome Helper,0.2,0.8785247802734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,2641,Google Chrome Helper (Renderer),0.0,0.717926025390625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,2672,Google Chrome Helper (Renderer),0.1,1.9102096557617188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,2826,Code,5.4,1.718902587890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,2833,Code Helper,1.8,0.9206771850585938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,2834,Code Helper,0.5,0.336456298828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,2835,Code Helper (Renderer),16.9,4.027366638183594,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,2852,Code Helper,0.0,1.1915206909179688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,2913,Code Helper,0.3,0.5285263061523438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,3033,Code Helper,0.2,0.32444000244140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,3034,Code Helper (Plugin),0.2,1.2126922607421875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,4194,Code Helper (Plugin),0.0,0.5765914916992188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,8323,Google Chrome Helper (Renderer),0.0,0.48084259033203125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,9069,searchpartyuseragent,0.1,0.14209747314453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,11684,mlhostd,0.5,0.08068084716796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,13781,Google Chrome Helper (Renderer),0.0,3.6020278930664062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,13795,com.apple.appkit.xpc.openAndSavePanelService,0.1,0.28533935546875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,14397,Siri,0.2,0.1636505126953125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,14505,SiriNCService,0.1,0.1495361328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,15256,Code Helper (Renderer),0.7,1.0103225708007812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,16276,python3.12,0.4,0.12989044189453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,16597,python3.12,42.2,0.5384445190429688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,17354,Google Chrome Helper (Renderer),0.0,1.226043701171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,17363,Google Chrome Helper (Renderer),0.0,1.3570785522460938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,17375,Google Chrome Helper (Renderer),0.0,1.7564773559570312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,17376,Google Chrome Helper,0.0,0.49648284912109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,17839,Google Chrome Helper (Renderer),0.0,1.251220703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,17846,Google Chrome Helper (Renderer),1.1,2.219390869140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,17856,Google Chrome Helper,0.0,0.5189895629882812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,17864,Google Chrome Helper (Renderer),0.1,2.260589599609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,17896,Google Chrome Helper (Renderer),0.0,1.2256622314453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:32:54,17901,mdworker_shared,0.3,0.2437591552734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:00,559,Dock,0.1,0.2193450927734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:00,560,ControlCenter,0.5,0.37021636962890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:00,561,pboard,0.1,0.09746551513671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:00,564,Finder,0.1,0.31452178955078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:00,567,lsd,0.1,0.074005126953125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:00,568,AXVisualSupportAgent,0.1,0.16155242919921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:00,587,com.apple.hiservices-xpcservice,0.1,0.04119873046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:00,602,fileproviderd,0.1,0.1346588134765625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:00,644,com.apple.dock.extra,1.5,0.13580322265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,718,corespotlightd,0.0,0.5626678466796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,730,Spotify,0.1,0.7337570190429688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,755,Grammarly Desktop,1.2,0.7123947143554688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,913,app_inkwell,0.6,0.286102294921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,916,com.apple.WebKit.WebContent,2.3,1.2598037719726562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,919,com.apple.WebKit.Networking,2.0,0.20542144775390625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,931,com.apple.WebKit.WebContent,0.1,0.43582916259765625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,932,com.apple.WebKit.WebContent,0.1,0.6986618041992188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,957,Google Chrome,5.0,3.0126571655273438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,963,Google Chrome Helper,1.4,0.9229660034179688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,964,Google Chrome Helper,0.9,0.8022308349609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,2641,Google Chrome Helper (Renderer),0.0,0.689697265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,2672,Google Chrome Helper (Renderer),0.1,1.8938064575195312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,2826,Code,0.2,1.4011383056640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,2833,Code Helper,0.2,0.7703781127929688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,2835,Code Helper (Renderer),0.6,3.8137435913085938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,2852,Code Helper,0.1,0.525665283203125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,2913,Code Helper,0.8,0.6046295166015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,3033,Code Helper,0.1,0.3238677978515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,3034,Code Helper (Plugin),0.5,0.9012222290039062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,3045,Code Helper (Plugin),0.1,0.1995086669921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,4194,Code Helper (Plugin),0.7,0.395965576171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,8323,Google Chrome Helper (Renderer),0.0,0.46100616455078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,9681,AppleSpell,0.3,0.2040863037109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,13774,Google Chrome Helper (Renderer),0.1,0.389862060546875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,13781,Google Chrome Helper (Renderer),0.0,0.9725570678710938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,13795,com.apple.appkit.xpc.openAndSavePanelService,0.1,0.28743743896484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,14397,Siri,0.2,0.1651763916015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,14505,SiriNCService,0.1,0.150299072265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,15256,Code Helper (Renderer),0.2,0.9912490844726562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,15313,screencaptureui,1.1,0.20580291748046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,16597,python3.12,42.3,0.21991729736328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,16631,ServiceExtension,0.1,0.26607513427734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,17354,Google Chrome Helper (Renderer),0.0,1.1823654174804688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,17363,Google Chrome Helper (Renderer),0.0,1.2943267822265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,17375,Google Chrome Helper (Renderer),0.1,1.8274307250976562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,17376,Google Chrome Helper,0.0,0.48980712890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,17839,Google Chrome Helper (Renderer),0.1,1.2004852294921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,17846,Google Chrome Helper (Renderer),0.0,1.9250869750976562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,17856,Google Chrome Helper,0.0,0.5189895629882812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,17864,Google Chrome Helper (Renderer),5.3,2.1776199340820312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,17896,Google Chrome Helper (Renderer),0.1,0.940704345703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,17901,mdworker_shared,0.3,0.19092559814453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:01,17908,mdworker_shared,0.2,0.189208984375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:07,560,ControlCenter,0.5,0.37822723388671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:07,568,AXVisualSupportAgent,0.1,0.16689300537109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:07,587,com.apple.hiservices-xpcservice,0.1,0.04177093505859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:07,602,fileproviderd,0.1,0.135040283203125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:07,718,corespotlightd,0.0,0.5619049072265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:07,730,Spotify,0.1,0.9723663330078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:07,747,Spotify Helper,0.2,0.17528533935546875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:07,755,Grammarly Desktop,0.6,0.7213592529296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:07,913,app_inkwell,0.1,0.28438568115234375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:07,916,com.apple.WebKit.WebContent,0.2,1.1819839477539062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:07,919,com.apple.WebKit.Networking,0.5,0.22869110107421875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:07,932,com.apple.WebKit.WebContent,0.2,0.6994247436523438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:07,957,Google Chrome,2.6,3.148651123046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:07,963,Google Chrome Helper,1.8,0.8813858032226562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:07,964,Google Chrome Helper,0.6,0.8647918701171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,2096,com.apple.WebKit.WebContent,0.2,0.4123687744140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,2641,Google Chrome Helper (Renderer),0.0,0.6921768188476562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,2672,Google Chrome Helper (Renderer),0.1,1.3021469116210938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,2826,Code,5.2,1.721954345703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,2833,Code Helper,2.3,0.8443832397460938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,2835,Code Helper (Renderer),0.8,3.9113998413085938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,2852,Code Helper,0.0,0.714874267578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,2878,Code Helper,0.1,0.3376007080078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,2913,Code Helper,0.6,0.6124496459960938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,3033,Code Helper,0.1,0.32672882080078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,3034,Code Helper (Plugin),0.2,0.9428024291992188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,4194,Code Helper (Plugin),0.0,0.5794525146484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,8323,Google Chrome Helper (Renderer),0.0,0.4638671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,13781,Google Chrome Helper (Renderer),0.0,0.9725570678710938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,13795,com.apple.appkit.xpc.openAndSavePanelService,0.1,0.290679931640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,14397,Siri,0.2,0.16460418701171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,14505,SiriNCService,0.1,0.15087127685546875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,15256,Code Helper (Renderer),0.3,0.9765625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,16276,python3.12,0.4,0.13942718505859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,16597,python3.12,42.9,0.5380630493164062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,17354,Google Chrome Helper (Renderer),0.0,1.1823654174804688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,17363,Google Chrome Helper (Renderer),0.0,1.3031005859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,17375,Google Chrome Helper (Renderer),0.0,1.9311904907226562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,17376,Google Chrome Helper,0.0,0.48980712890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,17839,Google Chrome Helper (Renderer),0.0,1.2134552001953125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,17846,Google Chrome Helper (Renderer),0.0,1.95465087890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,17856,Google Chrome Helper,0.0,0.5189895629882812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,17864,Google Chrome Helper (Renderer),1.9,2.8614044189453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:08,17896,Google Chrome Helper (Renderer),0.0,0.9685516357421875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,543,distnoted,0.2,0.0469207763671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,544,cfprefsd,0.3,0.05435943603515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,553,WindowManager,2.3,0.27618408203125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,559,Dock,0.4,0.22602081298828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,560,ControlCenter,0.8,0.3787994384765625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,564,Finder,0.2,0.3421783447265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,568,AXVisualSupportAgent,1.9,0.16918182373046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,580,trustd,0.4,0.1094818115234375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,596,callservicesd,0.1,0.15010833740234375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,602,fileproviderd,0.3,0.13446807861328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,643,useractivityd,0.1,0.0827789306640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,666,ContextStoreAgent,2.2,0.1678466796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,668,BiomeAgent,2.7,0.13637542724609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,683,imagent,0.1,0.141143798828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,686,TextInputMenuAgent,0.1,0.12912750244140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,713,Spotlight,0.7,0.31299591064453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,714,CursorUIViewService,0.1,0.17223358154296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,717,OneDrive,0.1,0.3070831298828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,718,corespotlightd,0.2,0.5594253540039062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,722,duetexpertd,0.1,0.29144287109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,730,Spotify,0.2,0.9067535400390625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,747,Spotify Helper,0.2,0.1758575439453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,755,Grammarly Desktop,2.5,0.72174072265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,913,app_inkwell,6.1,0.27980804443359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,916,com.apple.WebKit.WebContent,7.3,1.2025833129882812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,919,com.apple.WebKit.Networking,7.3,0.2246856689453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,930,com.apple.WebKit.WebContent,0.1,0.22487640380859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,931,com.apple.WebKit.WebContent,0.3,0.43659210205078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,932,com.apple.WebKit.WebContent,0.5,0.7108688354492188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,957,Google Chrome,4.9,3.1293869018554688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,963,Google Chrome Helper,2.3,0.8855819702148438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,964,Google Chrome Helper,0.3,0.8678436279296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,2095,com.apple.WebKit.WebContent,0.1,0.27523040771484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,2096,com.apple.WebKit.WebContent,0.4,0.41828155517578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,2641,Google Chrome Helper (Renderer),0.0,0.6921768188476562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,2672,Google Chrome Helper (Renderer),0.6,1.2586593627929688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,2826,Code,10.1,1.3582229614257812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,2833,Code Helper,2.2,0.9462356567382812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,2834,Code Helper,0.2,0.33283233642578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,2835,Code Helper (Renderer),21.4,3.9773941040039062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,2852,Code Helper,1.7,0.6803512573242188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,2878,Code Helper,0.1,0.33626556396484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,2913,Code Helper,0.3,0.624847412109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,3033,Code Helper,0.1,0.3238677978515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,3034,Code Helper (Plugin),1.0,1.0560989379882812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,4194,Code Helper (Plugin),0.1,0.5794525146484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:14,8323,Google Chrome Helper (Renderer),0.0,0.45680999755859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:15,9069,searchpartyuseragent,0.1,0.1422882080078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:15,9572,proactived,0.3,0.12722015380859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:15,13781,Google Chrome Helper (Renderer),0.0,0.9723663330078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:15,13795,com.apple.appkit.xpc.openAndSavePanelService,0.2,0.29163360595703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:15,14397,Siri,0.1,0.1644134521484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:15,15256,Code Helper (Renderer),1.3,0.8716583251953125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:15,15313,screencaptureui,2.6,0.2071380615234375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:15,16276,python3.12,0.4,0.1384735107421875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:15,16597,python3.12,43.0,0.5411148071289062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:15,17354,Google Chrome Helper (Renderer),0.0,1.2224197387695312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:15,17363,Google Chrome Helper (Renderer),0.0,1.2493133544921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:15,17375,Google Chrome Helper (Renderer),0.2,1.9441604614257812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:15,17376,Google Chrome Helper,0.0,0.48961639404296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:15,17839,Google Chrome Helper (Renderer),0.0,1.1234283447265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:15,17846,Google Chrome Helper (Renderer),0.0,1.5363693237304688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:15,17856,Google Chrome Helper,0.0,0.5189895629882812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:15,17864,Google Chrome Helper (Renderer),0.7,2.935028076171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:15,17896,Google Chrome Helper (Renderer),0.0,0.8974075317382812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:15,17901,mdworker_shared,0.2,0.20904541015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:15,17919,mdworker_shared,0.2,0.19626617431640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,560,ControlCenter,0.4,0.377655029296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,568,AXVisualSupportAgent,2.3,0.16727447509765625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,602,fileproviderd,0.2,0.13446807861328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,717,OneDrive,0.1,0.30384063720703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,718,corespotlightd,0.0,0.5573272705078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,730,Spotify,0.3,0.81939697265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,747,Spotify Helper,0.3,0.1735687255859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,755,Grammarly Desktop,2.3,0.7413864135742188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,913,app_inkwell,2.9,0.26950836181640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,916,com.apple.WebKit.WebContent,10.0,0.7572174072265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,919,com.apple.WebKit.Networking,10.2,0.2178192138671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,930,com.apple.WebKit.WebContent,0.1,0.135040283203125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,931,com.apple.WebKit.WebContent,0.4,0.351715087890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,932,com.apple.WebKit.WebContent,0.6,0.39825439453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,957,Google Chrome,9.9,3.17230224609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,963,Google Chrome Helper,1.8,0.9366989135742188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,964,Google Chrome Helper,0.5,0.8502960205078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,2095,com.apple.WebKit.WebContent,0.1,0.1377105712890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,2096,com.apple.WebKit.WebContent,0.5,0.3253936767578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,2641,Google Chrome Helper (Renderer),0.0,0.6845474243164062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,2672,Google Chrome Helper (Renderer),0.7,1.253509521484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,2826,Code,3.0,1.52587890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,2833,Code Helper,1.4,0.6803512573242188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,2835,Code Helper (Renderer),0.5,4.1141510009765625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,2852,Code Helper,0.0,1.0869979858398438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,2913,Code Helper,0.5,0.5407333374023438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,3033,Code Helper,0.1,0.32405853271484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,3034,Code Helper (Plugin),0.2,1.1569976806640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,4194,Code Helper (Plugin),0.0,0.7810592651367188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,8323,Google Chrome Helper (Renderer),0.0,0.45680999755859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:21,9681,AppleSpell,0.1,0.33168792724609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:22,13781,Google Chrome Helper (Renderer),0.0,0.9710311889648438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:22,15256,Code Helper (Renderer),0.2,0.8852005004882812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:22,15313,screencaptureui,1.4,0.20580291748046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:22,16597,python3.12,42.8,0.3509521484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:22,16631,ServiceExtension,0.1,0.27561187744140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:22,17354,Google Chrome Helper (Renderer),0.0,1.22222900390625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:22,17363,Google Chrome Helper (Renderer),0.0,1.3233184814453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:22,17375,Google Chrome Helper (Renderer),0.0,1.7940521240234375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:22,17376,Google Chrome Helper,0.0,0.4894256591796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:22,17846,Google Chrome Helper (Renderer),0.6,1.7429351806640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:22,17856,Google Chrome Helper,0.0,0.518798828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:22,17864,Google Chrome Helper (Renderer),3.0,2.8902053833007812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:22,17919,mdworker_shared,0.1,0.19683837890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,544,cfprefsd,0.1,0.04901885986328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,560,ControlCenter,0.5,0.3772735595703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,564,Finder,0.1,0.34503936767578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,568,AXVisualSupportAgent,0.1,0.16536712646484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,602,fileproviderd,0.2,0.135040283203125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,718,corespotlightd,0.0,0.5550384521484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,730,Spotify,0.3,0.7047653198242188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,747,Spotify Helper,0.2,0.16345977783203125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,755,Grammarly Desktop,0.9,0.7410049438476562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,913,app_inkwell,0.4,0.272369384765625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,916,com.apple.WebKit.WebContent,2.9,0.780487060546875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,919,com.apple.WebKit.Networking,2.5,0.20885467529296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,932,com.apple.WebKit.WebContent,0.1,0.3963470458984375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,957,Google Chrome,2.1,3.2321929931640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,963,Google Chrome Helper,0.3,0.9334564208984375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,964,Google Chrome Helper,0.5,0.8411407470703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,2641,Google Chrome Helper (Renderer),0.0,0.7593154907226562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,2672,Google Chrome Helper (Renderer),0.1,1.4711380004882812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,2826,Code,2.0,1.8039703369140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,2833,Code Helper,0.9,0.8363723754882812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,2834,Code Helper,0.1,0.3437042236328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,2835,Code Helper (Renderer),1.4,4.1492462158203125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,2852,Code Helper,0.0,0.9067535400390625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,2913,Code Helper,0.4,0.5374908447265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,3033,Code Helper,0.2,0.323486328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,3034,Code Helper (Plugin),0.4,1.1478424072265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,4194,Code Helper (Plugin),0.2,0.7785797119140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,8323,Google Chrome Helper (Renderer),0.0,0.49648284912109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,8324,Google Chrome Helper (Renderer),0.0,0.6048202514648438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,13781,Google Chrome Helper (Renderer),0.0,1.0236740112304688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:28,13795,com.apple.appkit.xpc.openAndSavePanelService,0.1,0.2910614013671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:29,15256,Code Helper (Renderer),0.1,0.890350341796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:29,15313,screencaptureui,0.4,0.20656585693359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:29,16276,python3.12,0.5,0.14591217041015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:29,16597,python3.12,42.4,0.5458831787109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:29,17354,Google Chrome Helper (Renderer),0.0,1.2292861938476562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:29,17363,Google Chrome Helper (Renderer),0.0,1.3483047485351562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:29,17375,Google Chrome Helper (Renderer),0.1,1.7894744873046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:29,17376,Google Chrome Helper,0.0,0.495147705078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:29,17846,Google Chrome Helper (Renderer),0.0,1.8457412719726562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:29,17856,Google Chrome Helper,0.0,0.5308151245117188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:29,17864,Google Chrome Helper (Renderer),1.0,2.5545120239257812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:29,17919,mdworker_shared,0.2,0.1964569091796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,544,cfprefsd,0.2,0.04863739013671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,549,UserEventAgent,0.2,0.07781982421875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,553,WindowManager,4.6,0.2593994140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,560,ControlCenter,0.3,0.37059783935546875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,564,Finder,0.1,0.344085693359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,568,AXVisualSupportAgent,1.6,0.16193389892578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,580,trustd,0.5,0.106048583984375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,590,containermanagerd,0.8,0.0431060791015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,602,fileproviderd,0.1,0.13523101806640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,608,ViewBridgeAuxiliary,0.3,0.08525848388671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,644,com.apple.dock.extra,0.1,0.13561248779296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,646,NotificationCenter,1.2,0.19092559814453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,686,TextInputMenuAgent,0.1,0.130462646484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,714,CursorUIViewService,1.3,0.16269683837890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,718,corespotlightd,0.0,0.5908966064453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,730,Spotify,0.4,0.9622573852539062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,755,Grammarly Desktop,1.7,0.7413864135742188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,913,app_inkwell,4.0,0.283050537109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,916,com.apple.WebKit.WebContent,6.6,0.853729248046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,919,com.apple.WebKit.Networking,6.7,0.2239227294921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,930,com.apple.WebKit.WebContent,0.1,0.247955322265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,931,com.apple.WebKit.WebContent,0.4,0.38394927978515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,932,com.apple.WebKit.WebContent,0.5,0.40531158447265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,957,Google Chrome,15.2,3.41644287109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,963,Google Chrome Helper,7.7,0.8928298950195312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,964,Google Chrome Helper,0.8,0.9080886840820312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,2095,com.apple.WebKit.WebContent,0.1,0.25768280029296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,2096,com.apple.WebKit.WebContent,0.4,0.34275054931640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,2641,Google Chrome Helper (Renderer),1.9,0.855255126953125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,2672,Google Chrome Helper (Renderer),0.2,1.4892578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,2826,Code,2.3,1.4364242553710938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,2833,Code Helper,1.8,0.8026123046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,2834,Code Helper,0.3,0.34313201904296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,2835,Code Helper (Renderer),0.8,3.7778854370117188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,2852,Code Helper,3.7,0.9733200073242188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,2913,Code Helper,0.6,0.54168701171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,3033,Code Helper,0.1,0.323486328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,3034,Code Helper (Plugin),0.4,0.9876251220703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,3045,Code Helper (Plugin),0.1,0.35991668701171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,4194,Code Helper (Plugin),0.0,0.7761001586914062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,6986,accountsd,1.0,0.11692047119140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,8323,Google Chrome Helper (Renderer),0.0,0.49648284912109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,8324,Google Chrome Helper (Renderer),0.0,0.6048202514648438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,8326,chronod,3.8,0.11196136474609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,8339,StocksWidget,16.9,0.252532958984375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,9069,searchpartyuseragent,0.1,0.17223358154296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,9847,UIKitSystem,0.2,0.16994476318359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,9946,extensionkitservice,0.4,0.0637054443359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,9947,networkserviceproxy,0.9,0.106048583984375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,13774,Google Chrome Helper (Renderer),0.0,0.48389434814453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,13781,Google Chrome Helper (Renderer),0.0,1.2987136840820312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,13795,com.apple.appkit.xpc.openAndSavePanelService,0.4,0.29144287109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,14603,siriactionsd,1.0,0.1216888427734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,15256,Code Helper (Renderer),0.3,0.8825302124023438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,15313,screencaptureui,1.0,0.2040863037109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,16276,python3.12,1.2,0.14019012451171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:35,16597,python3.12,42.7,0.5407333374023438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:36,17354,Google Chrome Helper (Renderer),0.0,1.2218475341796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:36,17363,Google Chrome Helper (Renderer),0.0,1.3446807861328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:36,17375,Google Chrome Helper (Renderer),0.0,1.7065048217773438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:36,17376,Google Chrome Helper,0.0,0.495147705078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:36,17846,Google Chrome Helper (Renderer),0.0,1.8985748291015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:36,17856,Google Chrome Helper,0.0,0.5407333374023438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:36,17864,Google Chrome Helper (Renderer),1.7,4.171562194824219,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:36,17901,mdworker_shared,0.2,0.199127197265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:36,17919,mdworker_shared,0.2,0.19626617431640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,543,distnoted,0.3,0.03662109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,544,cfprefsd,0.1,0.05245208740234375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,560,ControlCenter,0.5,0.34618377685546875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,564,Finder,0.1,0.3108978271484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,568,AXVisualSupportAgent,1.0,0.1613616943359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,575,rapportd,0.1,0.1285552978515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,596,callservicesd,0.1,0.14095306396484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,602,fileproviderd,0.3,0.13408660888671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,666,ContextStoreAgent,0.1,0.17490386962890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,683,imagent,0.2,0.1495361328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,730,Spotify,0.5,0.5533218383789062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,747,Spotify Helper,0.1,0.1468658447265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,755,Grammarly Desktop,1.2,0.5634307861328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,913,app_inkwell,2.5,0.26607513427734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,916,com.apple.WebKit.WebContent,3.1,0.6891250610351562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,919,com.apple.WebKit.Networking,2.6,0.20618438720703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,932,com.apple.WebKit.WebContent,0.1,0.35858154296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,957,Google Chrome,6.7,2.8285980224609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,963,Google Chrome Helper,1.6,1.00555419921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,964,Google Chrome Helper,0.9,0.7326126098632812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,966,Google Chrome Helper,0.1,0.18558502197265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,2096,com.apple.WebKit.WebContent,0.0,0.5418777465820312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,2641,Google Chrome Helper (Renderer),0.0,0.8235931396484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,2672,Google Chrome Helper (Renderer),0.2,1.1898040771484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,2826,Code,0.0,1.4749526977539062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,2833,Code Helper,0.4,0.8037567138671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,2835,Code Helper (Renderer),0.4,2.61077880859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,2852,Code Helper,0.1,0.9401321411132812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,2913,Code Helper,0.6,0.498199462890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,3033,Code Helper,0.1,0.31948089599609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,3034,Code Helper (Plugin),0.3,1.0400772094726562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,4143,Code Helper (Plugin),0.1,0.145721435546875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,4194,Code Helper (Plugin),0.0,0.5693435668945312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,8410,routined,0.3,0.11577606201171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,9069,searchpartyuseragent,0.2,0.164794921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,13781,Google Chrome Helper (Renderer),0.1,1.0234832763671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,13795,com.apple.appkit.xpc.openAndSavePanelService,0.1,0.27942657470703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,15256,Code Helper (Renderer),0.2,0.821685791015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,15313,screencaptureui,0.6,0.2025604248046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,16597,python3.12,42.8,0.20999908447265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,17354,Google Chrome Helper (Renderer),0.0,1.1722564697265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,17363,Google Chrome Helper (Renderer),0.0,1.2319564819335938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,17375,Google Chrome Helper (Renderer),5.3,3.9493560791015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,17376,Google Chrome Helper,0.0,0.4886627197265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,17846,Google Chrome Helper (Renderer),0.0,1.4818191528320312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,17856,Google Chrome Helper,0.0,0.527191162109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:42,17864,Google Chrome Helper (Renderer),0.1,2.6638031005859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,560,ControlCenter,0.5,0.35552978515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,564,Finder,0.1,0.33664703369140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,568,AXVisualSupportAgent,0.3,0.1613616943359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,587,com.apple.hiservices-xpcservice,0.5,0.04177093505859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,602,fileproviderd,0.2,0.13427734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,608,ViewBridgeAuxiliary,0.2,0.091552734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,730,Spotify,0.2,0.638580322265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,755,Grammarly Desktop,0.4,0.5779266357421875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,916,com.apple.WebKit.WebContent,0.0,0.6925582885742188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,932,com.apple.WebKit.WebContent,0.1,0.35228729248046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,957,Google Chrome,0.6,2.959442138671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,963,Google Chrome Helper,0.1,0.9067535400390625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,964,Google Chrome Helper,0.2,0.8020401000976562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,2096,com.apple.WebKit.WebContent,0.1,0.30460357666015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,2641,Google Chrome Helper (Renderer),0.0,0.7329940795898438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,2672,Google Chrome Helper (Renderer),0.2,1.20849609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,2826,Code,5.8,1.708984375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,2833,Code Helper,3.4,0.9576797485351562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,2834,Code Helper,0.4,0.331878662109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,2835,Code Helper (Renderer),21.5,4.102516174316406,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,2852,Code Helper,0.0,1.0423660278320312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,2913,Code Helper,1.0,0.5346298217773438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,3033,Code Helper,0.2,0.34160614013671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,3034,Code Helper (Plugin),1.0,1.1331558227539062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,4194,Code Helper (Plugin),0.2,0.601959228515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,13781,Google Chrome Helper (Renderer),0.0,0.9542465209960938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,13795,com.apple.appkit.xpc.openAndSavePanelService,0.1,0.284576416015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,14397,Siri,0.7,0.16632080078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,14505,SiriNCService,0.2,0.1514434814453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,15256,Code Helper (Renderer),0.2,0.8602142333984375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,16276,python3.12,0.6,0.1308441162109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,16597,python3.12,42.1,0.539398193359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,16631,ServiceExtension,0.1,0.26607513427734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,17354,Google Chrome Helper (Renderer),0.0,1.1722564697265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,17363,Google Chrome Helper (Renderer),0.0,1.2359619140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,17375,Google Chrome Helper (Renderer),0.0,3.9562225341796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,17376,Google Chrome Helper,0.0,0.4955291748046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,17856,Google Chrome Helper,0.0,0.5292892456054688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,17864,Google Chrome Helper (Renderer),0.0,2.08892822265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:49,17983,mdworker_shared,0.6,0.24471282958984375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:55,553,WindowManager,0.2,0.2719879150390625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:55,559,Dock,0.4,0.1918792724609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:55,560,ControlCenter,1.0,0.36067962646484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:55,564,Finder,0.1,0.3376007080078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:55,568,AXVisualSupportAgent,0.5,0.1605987548828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:55,602,fileproviderd,0.2,0.13446807861328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:55,707,WiFiAgent,4.1,0.164794921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,713,Spotlight,0.1,0.30651092529296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,730,Spotify,0.3,0.64544677734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,755,Grammarly Desktop,0.5,0.5708694458007812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,913,app_inkwell,1.5,0.26607513427734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,916,com.apple.WebKit.WebContent,0.5,2.4446487426757812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,919,com.apple.WebKit.Networking,0.2,0.20160675048828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,930,com.apple.WebKit.WebContent,0.1,0.22830963134765625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,931,com.apple.WebKit.WebContent,0.1,0.34770965576171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,932,com.apple.WebKit.WebContent,0.1,0.366973876953125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,957,Google Chrome,1.3,3.0294418334960938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,963,Google Chrome Helper,6.0,0.8876800537109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,964,Google Chrome Helper,0.5,0.8420944213867188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,2641,Google Chrome Helper (Renderer),0.1,0.7444381713867188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,2672,Google Chrome Helper (Renderer),0.2,1.2271881103515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,2826,Code,2.2,1.4232635498046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,2833,Code Helper,2.6,0.8188247680664062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,2834,Code Helper,0.1,0.3322601318359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,2835,Code Helper (Renderer),2.4,4.255485534667969,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,2852,Code Helper,0.1,1.025390625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,2878,Code Helper,0.1,0.34313201904296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,2913,Code Helper,0.6,0.6072998046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,3033,Code Helper,0.2,0.354766845703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,3034,Code Helper (Plugin),0.3,1.2882232666015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,4194,Code Helper (Plugin),0.0,0.6103515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,8323,Google Chrome Helper (Renderer),0.0,0.48084259033203125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,8324,Google Chrome Helper (Renderer),0.0,0.4734039306640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,9572,proactived,0.2,0.12760162353515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,13774,Google Chrome Helper (Renderer),0.2,0.44097900390625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,13781,Google Chrome Helper (Renderer),0.0,0.9828567504882812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,13795,com.apple.appkit.xpc.openAndSavePanelService,0.1,0.28820037841796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,15256,Code Helper (Renderer),0.0,0.8626937866210938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,15313,screencaptureui,0.1,0.20294189453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,16276,python3.12,1.4,0.133514404296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,16597,python3.12,43.2,0.5462646484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,17354,Google Chrome Helper (Renderer),0.0,1.2128829956054688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,17363,Google Chrome Helper (Renderer),0.0,1.276397705078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,17375,Google Chrome Helper (Renderer),6.8,3.8501739501953125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,17376,Google Chrome Helper,0.0,0.4955291748046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,17856,Google Chrome Helper,0.0,0.5292892456054688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,17864,Google Chrome Helper (Renderer),0.0,2.2264480590820312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,17983,mdworker_shared,0.1,0.304412841796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,17984,mdworker_shared,1.0,0.177764892578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,17991,Google Chrome Helper (Renderer),0.0,1.2281417846679688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:33:56,17997,mdworker_shared,0.1,0.24356842041015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:02,560,ControlCenter,0.4,0.36468505859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:02,564,Finder,0.1,0.328826904296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:02,568,AXVisualSupportAgent,1.2,0.15869140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:02,602,fileproviderd,0.2,0.13523101806640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:02,683,imagent,0.3,0.14591217041015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:02,722,duetexpertd,1.3,0.25882720947265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:02,730,Spotify,2.9,0.732421875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:02,748,Spotify Helper,0.1,0.254058837890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:02,755,Grammarly Desktop,0.7,0.60882568359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:02,857,Grammarly Desktop Update Service,0.2,0.0873565673828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:02,913,app_inkwell,2.4,0.27713775634765625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:02,916,com.apple.WebKit.WebContent,0.0,0.7246017456054688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:02,918,com.apple.WebKit.GPU,0.1,0.148773193359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:02,931,com.apple.WebKit.WebContent,0.0,0.6519317626953125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:02,932,com.apple.WebKit.WebContent,0.1,0.36525726318359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:02,957,Google Chrome,0.6,2.8278350830078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,963,Google Chrome Helper,0.3,1.0435104370117188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,964,Google Chrome Helper,0.1,0.7488250732421875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,2641,Google Chrome Helper (Renderer),0.0,0.713348388671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,2672,Google Chrome Helper (Renderer),0.2,1.2115478515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,2826,Code,7.1,1.5460968017578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,2833,Code Helper,3.0,0.872802734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,2834,Code Helper,0.2,0.324249267578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,2835,Code Helper (Renderer),5.0,4.1408538818359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,2852,Code Helper,0.2,0.9853363037109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,2913,Code Helper,0.8,0.5420684814453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,3033,Code Helper,0.1,0.3208160400390625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,3034,Code Helper (Plugin),0.2,1.3792037963867188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,4194,Code Helper (Plugin),0.0,0.6725311279296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,8410,routined,0.6,0.164031982421875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,9069,searchpartyuseragent,0.2,0.13523101806640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,13781,Google Chrome Helper (Renderer),0.0,0.9563446044921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,13795,com.apple.appkit.xpc.openAndSavePanelService,0.1,0.28095245361328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,15256,Code Helper (Renderer),0.0,0.8085250854492188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,15313,screencaptureui,0.8,0.201416015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,16276,python3.12,0.4,0.12226104736328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,16597,python3.12,42.0,0.530242919921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,17354,Google Chrome Helper (Renderer),0.0,1.1722564697265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,17375,Google Chrome Helper (Renderer),0.1,3.8997650146484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,17376,Google Chrome Helper,0.0,0.4791259765625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,17856,Google Chrome Helper,0.0,0.527191162109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,17864,Google Chrome Helper (Renderer),1.8,1.7200469970703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:03,17991,Google Chrome Helper (Renderer),0.0,0.9510040283203125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,560,ControlCenter,0.4,0.35343170166015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,564,Finder,0.2,0.3360748291015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,568,AXVisualSupportAgent,0.1,0.1552581787109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,587,com.apple.hiservices-xpcservice,0.1,0.041961669921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,602,fileproviderd,0.1,0.13446807861328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,668,BiomeAgent,0.3,0.14095306396484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,722,duetexpertd,1.7,0.24929046630859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,730,Spotify,0.4,0.8478164672851562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,748,Spotify Helper,0.3,0.27446746826171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,755,Grammarly Desktop,0.4,0.5826950073242188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,913,app_inkwell,0.1,0.2803802490234375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,916,com.apple.WebKit.WebContent,0.1,0.7364273071289062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,918,com.apple.WebKit.GPU,0.1,0.1537322998046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,919,com.apple.WebKit.Networking,0.4,0.20275115966796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,931,com.apple.WebKit.WebContent,0.2,0.6242752075195312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,932,com.apple.WebKit.WebContent,0.1,0.365447998046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,957,Google Chrome,1.5,2.7841567993164062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,963,Google Chrome Helper,0.5,0.9904861450195312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,964,Google Chrome Helper,1.1,0.7976531982421875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,2641,Google Chrome Helper (Renderer),0.0,0.7335662841796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,2672,Google Chrome Helper (Renderer),0.1,1.1920928955078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,2826,Code,2.8,1.5134811401367188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,2833,Code Helper,2.8,0.9037017822265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,2834,Code Helper,0.4,0.32749176025390625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,2835,Code Helper (Renderer),27.5,3.67889404296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,2852,Code Helper,0.1,1.171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,2913,Code Helper,0.6,0.5514144897460938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,3033,Code Helper,0.3,0.31795501708984375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,3034,Code Helper (Plugin),0.8,1.1819839477539062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:09,4194,Code Helper (Plugin),0.3,0.577545166015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:10,13774,Google Chrome Helper (Renderer),0.1,0.42209625244140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:10,13781,Google Chrome Helper (Renderer),0.7,1.3355255126953125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:10,13795,com.apple.appkit.xpc.openAndSavePanelService,0.2,0.286865234375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:10,14397,Siri,0.1,0.165557861328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:10,15256,Code Helper (Renderer),0.3,0.8066177368164062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:10,16445,python3.12,0.7,0.05817413330078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:10,16597,python3.12,42.8,0.22563934326171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:10,16631,ServiceExtension,0.1,0.2590179443359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:10,17354,Google Chrome Helper (Renderer),0.0,1.1722564697265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:10,17375,Google Chrome Helper (Renderer),2.8,3.1175613403320312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:10,17376,Google Chrome Helper,0.0,0.48770904541015625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:10,17418,zsh,0.1,0.02841949462890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:10,17856,Google Chrome Helper,0.0,0.5268096923828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:10,17864,Google Chrome Helper (Renderer),0.0,1.988983154296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:10,17984,mdworker_shared,0.2,0.1918792724609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:10,17991,Google Chrome Helper (Renderer),0.0,0.8562088012695312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:10,17997,mdworker_shared,0.2,0.19245147705078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,544,cfprefsd,0.1,0.05397796630859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,560,ControlCenter,0.4,0.34503936767578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,564,Finder,0.4,0.28533935546875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,568,AXVisualSupportAgent,1.0,0.128173828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,580,trustd,0.1,0.10013580322265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,602,fileproviderd,0.1,0.133514404296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,668,BiomeAgent,0.4,0.10166168212890625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,713,Spotlight,0.1,0.2605438232421875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,717,OneDrive,0.1,0.247955322265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,722,duetexpertd,1.5,0.1972198486328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,730,Spotify,0.2,0.45909881591796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,748,Spotify Helper,0.1,0.2086639404296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,755,Grammarly Desktop,0.7,0.45146942138671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,913,app_inkwell,2.0,0.2033233642578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,916,com.apple.WebKit.WebContent,0.0,0.5632400512695312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,919,com.apple.WebKit.Networking,0.2,0.139617919921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,932,com.apple.WebKit.WebContent,0.1,0.9275436401367188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,957,Google Chrome,1.3,2.288818359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,963,Google Chrome Helper,0.3,0.8310317993164062,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,964,Google Chrome Helper,0.1,0.664520263671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,2641,Google Chrome Helper (Renderer),0.0,0.6898880004882812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,2672,Google Chrome Helper (Renderer),0.3,7.6995849609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,2826,Code,4.4,1.4820098876953125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,2833,Code Helper,2.1,0.7345199584960938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,2834,Code Helper,0.1,0.31986236572265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,2835,Code Helper (Renderer),4.3,3.9094924926757812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,2852,Code Helper,0.1,1.0213851928710938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,2878,Code Helper,0.1,0.29888153076171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,2913,Code Helper,0.9,0.49533843994140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,3033,Code Helper,0.3,0.27370452880859375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,3034,Code Helper (Plugin),0.8,1.397705078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,4194,Code Helper (Plugin),0.3,0.36754608154296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,8323,Google Chrome Helper (Renderer),0.0,0.45528411865234375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:16,8351,Google Chrome Helper,0.1,0.1117706298828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:17,13781,Google Chrome Helper (Renderer),0.0,1.0072708129882812,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:17,13795,com.apple.appkit.xpc.openAndSavePanelService,0.1,0.238037109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:17,15256,Code Helper (Renderer),0.1,0.823211669921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:17,15313,screencaptureui,0.7,0.16880035400390625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:17,16276,python3.12,0.3,0.11749267578125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:17,16597,python3.12,42.7,0.2086639404296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:17,17354,Google Chrome Helper (Renderer),0.0,1.1671066284179688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:17,17375,Google Chrome Helper (Renderer),0.1,2.544403076171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:17,17376,Google Chrome Helper,0.0,0.4791259765625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:17,17856,Google Chrome Helper,0.0,0.5176544189453125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:17,17864,Google Chrome Helper (Renderer),1.1,1.6168594360351562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:17,17991,Google Chrome Helper (Renderer),0.0,0.8562088012695312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:17,18313,git-remote-https,7.1,0.08182525634765625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,553,WindowManager,0.1,0.25119781494140625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,560,ControlCenter,0.5,0.3490447998046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,561,pboard,0.1,0.07953643798828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,568,AXVisualSupportAgent,0.6,0.1556396484375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,602,fileproviderd,0.2,0.13446807861328125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,730,Spotify,0.2,0.583648681640625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,755,Grammarly Desktop,0.9,0.6000518798828125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,913,app_inkwell,1.9,0.28057098388671875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,916,com.apple.WebKit.WebContent,0.0,0.6946563720703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,918,com.apple.WebKit.GPU,0.5,0.151824951171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,919,com.apple.WebKit.Networking,0.6,0.2056121826171875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,930,com.apple.WebKit.WebContent,0.5,0.164794921875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,931,com.apple.WebKit.WebContent,2.0,0.5998611450195312,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,932,com.apple.WebKit.WebContent,0.1,0.38738250732421875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,957,Google Chrome,6.2,2.7736663818359375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,963,Google Chrome Helper,1.8,1.0801315307617188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,964,Google Chrome Helper,0.2,0.7633209228515625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,2641,Google Chrome Helper (Renderer),0.0,0.6946563720703125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,2672,Google Chrome Helper (Renderer),0.2,1.2203216552734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,2826,Code,1.2,1.4720916748046875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,2833,Code Helper,1.6,0.844573974609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,2835,Code Helper (Renderer),0.9,3.8568496704101562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,2852,Code Helper,0.0,0.7673263549804688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,2878,Code Helper,0.2,0.30651092529296875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,2913,Code Helper,0.3,0.6343841552734375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,3033,Code Helper,0.1,0.38700103759765625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,3034,Code Helper (Plugin),0.2,1.2174606323242188,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,4194,Code Helper (Plugin),0.0,0.5865097045898438,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,9069,searchpartyuseragent,0.1,0.16078948974609375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:23,13781,Google Chrome Helper (Renderer),0.0,0.9609222412109375,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:24,15256,Code Helper (Renderer),0.1,0.8447647094726562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:24,15313,screencaptureui,0.4,0.202178955078125,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:24,16276,python3.12,0.7,0.12950897216796875,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:24,16597,python3.12,42.8,0.5323410034179688,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:24,17354,Google Chrome Helper (Renderer),0.0,1.1722564697265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:24,17375,Google Chrome Helper (Renderer),10.7,3.9937973022460938,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:24,17376,Google Chrome Helper,0.0,0.4886627197265625,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:24,17856,Google Chrome Helper,0.0,0.5273818969726562,80,HIGH,Suspicious process behavior detected.
+2026-09-15 11:34:24,17864,Google Chrome Helper (Renderer),0.0,2.6865005493164062,80,HIGH,Suspicious process behavior detected.

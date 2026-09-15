@@ -1,0 +1,57 @@
+Aimport pandas as pd
+import os
+
+
+input_file = "data/process_data.csv"
+output_file = "data/processed_data.csv"
+
+
+df = pd.read_csv(input_file)
+
+df = df.drop_duplicates()
+
+df = df.dropna()
+
+df["cpu_percent"] = pd.to_numeric(
+    df["cpu_percent"],
+    errors="coerce"
+)
+
+df["memory_percent"] = pd.to_numeric(
+    df["memory_percent"],
+    errors="coerce"
+)
+
+df = df.dropna()
+
+df["avg_cpu"] = df.groupby(
+    "process_name"
+)["cpu_percent"].transform("mean")
+
+df["avg_memory"] = df.groupby(
+    "process_name"
+)["memory_percent"].transform("mean")
+
+df["message_frequency"] = df.groupby(
+    "process_name"
+)["process_name"].transform("count")
+
+df = df[
+    [
+        "pid",
+        "process_name",
+        "cpu_percent",
+        "memory_percent",
+        "avg_cpu",
+        "avg_memory",
+        "message_frequency"
+    ]
+]
+
+os.makedirs("data", exist_ok=True)
+
+df.to_csv(output_file, index=False)
+
+print("Preprocessing completed.")
+print("Total records:", len(df))
+print("Processed file:", output_file)

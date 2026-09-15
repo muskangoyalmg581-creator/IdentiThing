@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>IdentiThing Security Dashboard</title>
+
+    <link rel="stylesheet" href="/static/style.css">
+
+</head>
+
+<body>
+
+    <div class="header">
+
+        <h1>IdentiThing</h1>
+
+        <p>Real-Time Insider Threat Detection using Process Behavior Analytics</p>
+
+        <span>System Security Monitoring</span>
+
+    </div>
+
+
+    <div class="dashboard">
+
+        <div class="card">
+
+            <h3>Total Processes</h3>
+
+            <h2 id="total">0</h2>
+
+        </div>
+
+
+        <div class="card">
+
+            <h3>Normal Processes</h3>
+
+            <h2 id="normal">0</h2>
+
+        </div>
+
+
+        <div class="card">
+
+            <h3>Anomalies</h3>
+
+            <h2 id="anomalies">0</h2>
+
+        </div>
+
+
+        <div class="card">
+
+            <h3>High Risk</h3>
+
+            <h2 id="highrisk">0</h2>
+
+        </div>
+
+    </div>
+
+
+    <div class="section">
+
+        <h2>Real-Time Process Monitoring</h2>
+
+        <p class="subtitle">
+
+            Continuous monitoring of operating system processes
+
+        </p>
+
+
+        <table>
+
+            <thead>
+
+                <tr>
+
+                    <th>PID</th>
+
+                    <th>Process</th>
+
+                    <th>CPU %</th>
+
+                    <th>Memory %</th>
+
+                    <th>Status</th>
+
+                    <th>Risk Score</th>
+
+                </tr>
+
+            </thead>
+
+
+            <tbody id="processTable"></tbody>
+
+        </table>
+
+    </div>
+
+
+    <div class="section">
+
+        <h2>Recent Security Alerts</h2>
+
+        <p class="subtitle">
+
+            Detected abnormal process behavior
+
+        </p>
+
+
+        <table>
+
+            <thead>
+
+                <tr>
+
+                    <th>Time</th>
+
+                    <th>Process</th>
+
+                    <th>CPU %</th>
+
+                    <th>Memory %</th>
+
+                    <th>Risk</th>
+
+                    <th>Severity</th>
+
+                </tr>
+
+            </thead>
+
+
+            <tbody id="alertTable"></tbody>
+
+        </table>
+
+    </div>
+
+
+    <script src="/static/script.js"></script>
+
+</body>
+
+</html>

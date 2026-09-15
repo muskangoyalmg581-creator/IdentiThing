@@ -1,0 +1,158 @@
+body {
+
+    margin: 0;
+
+    font-family: Arial, sans-serif;
+
+    background: #f4f6f8;
+
+}
+
+
+.header {
+
+    background: #111827;
+
+    color: white;
+
+    padding: 30px;
+
+    text-align: center;
+
+}
+
+
+.header h1 {
+
+    margin: 0;
+
+    font-size: 36px;
+
+}
+
+
+.header p {
+
+    margin: 10px 0;
+
+    font-size: 17px;
+
+}
+
+
+.dashboard {
+
+    display: grid;
+
+    grid-template-columns: repeat(4, 1fr);
+
+    gap: 20px;
+
+    padding: 25px;
+
+}
+
+
+.card {
+
+    background: white;
+
+    padding: 20px;
+
+    border-radius: 10px;
+
+    text-align: center;
+
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+
+}
+
+
+.card h3 {
+
+    margin: 0;
+
+}
+
+
+.card h2 {
+
+    font-size: 32px;
+
+    margin: 15px 0 0;
+
+}
+
+
+.section {
+
+    background: white;
+
+    margin: 25px;
+
+    padding: 20px;
+
+    border-radius: 10px;
+
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+
+}
+
+
+.section h2 {
+
+    margin-top: 0;
+
+}
+
+
+.subtitle {
+
+    color: #666;
+
+}
+
+
+table {
+
+    width: 100%;
+
+    border-collapse: collapse;
+
+}
+
+
+th, td {
+
+    padding: 12px;
+
+    border-bottom: 1px solid #ddd;
+
+    text-align: left;
+
+}
+
+
+th {
+
+    background: #f1f5f9;
+
+}
+
+
+.normal {
+
+    color: green;
+
+    font-weight: bold;
+
+}
+
+
+.anomaly {
+
+    color: red;
+
+    font-weight: bold;
+
+}
